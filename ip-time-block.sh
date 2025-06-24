@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Usage: ./block_ip_temp.sh <IP_ADDRESS> <DURATION_MS>
+# Usage: ./ip-time-block.sh <IP_ADDRESS> <DURATION_MS>
 
 IP="$1"
 DURATION_MS="$2"
